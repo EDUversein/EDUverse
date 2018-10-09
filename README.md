@@ -1,0 +1,2 @@
+# EDUverse
+Digunakan untuk latihan
