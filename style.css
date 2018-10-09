@@ -1,0 +1,14 @@
+.slider h3,
+.slider h5,
+.members {
+	text-shadow: 3px 3px 3px rgba(0,0,0,0.5);
+}
+
+.parallax-container{
+		height:400px;
+	
+}
+
+section , footer {
+	padding: 20px 0;
+}
